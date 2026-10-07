@@ -4,6 +4,6 @@
     "description": "Repository for CS3",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/haIo117/CS-Plugins/refs/heads/builds/plugins.json"
+      "https://raw.githubusercontent.com/zyan117/CS-Plugins/refs/heads/builds/plugins.json"
     ]
 }
