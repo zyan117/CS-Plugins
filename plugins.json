@@ -2,15 +2,15 @@
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
-        "version": 654,
+        "version": 686,
         "name": "StreamPlay",
         "internalName": "StreamPlay",
         "authors": [
             "Phisher98",
             "Hexated"
         ],
-        "description": "MultiAPI",
-        "fileSize": 967243,
+        "description": "#1 best extention based on MultiAPI",
+        "fileSize": 1934736,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -23,33 +23,10 @@
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-c9dddbd935d713aa05264aeb6b004ffcabc122c99ba6b237e5296b927114a1dc"
+        "fileHash": "sha256-cab14bece21d74ff20b6d388497f9d9531ce492d58ba837affb61c2d401a3d0c"
     },
     {
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
-        "status": 1,
-        "version": 82,
-        "name": "VegaMovies",
-        "internalName": "VegaMovies",
-        "authors": [
-            "megix"
-        ],
-        "description": "Includes LuxMovies, Rogmovies",
-        "fileSize": 41565,
-        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-        "language": "hi",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime"
-        ],
-        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-b78635ef4f2f66c134184552fe5e4956cc02ec1c5ce6d6811cccfd3747367883"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Bollyflix.cs3",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
         "status": 1,
         "version": 33,
         "name": "Bollyflix",
@@ -72,16 +49,16 @@
         "fileHash": "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Cinefreak.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
         "status": 1,
-        "version": 9,
+        "version": 18,
         "name": "Cinefreak",
         "internalName": "Cinefreak",
         "authors": [
             "Phisher98"
         ],
         "description": "Bangla/Hindi Movies/Series",
-        "fileSize": 68268,
+        "fileSize": 136561,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "bn",
         "tvTypes": [
@@ -91,22 +68,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8abb7001262d6f020e462491dff68f516f3fd0bce1b8c55a4e6863f05b7ae8a6",
-        "jarFileSize": 312910,
-        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Cinefreak.jar",
-        "jarHash": "sha256-1a8d0ee06c06ded0d37f8c1b42a139c19110eb8b5bba593aac5fa936007334ef"
+        "fileHash": "sha256-cae18f9c1daf231a2dc8864e8f91fae7c9cdb7e7c3fdf7348c500bd4513ee49a"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/CineStream.cs3",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
         "status": 1,
-        "version": 469,
+        "version": 487,
         "name": "CineStream",
         "internalName": "CineStream",
         "authors": [
             "megix"
         ],
         "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-        "fileSize": 729861,
+        "fileSize": 695013,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "language": "en",
         "tvTypes": [
@@ -118,18 +92,18 @@
         ],
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-171a824618810500a4429a1665c6be3d55a688444d1227c68140fd45d426c8c9"
+        "fileHash": "sha256-30dc643628702d6b2fe139339e59996783c95a0c1d41efe0a31872ae4d10908b"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/HDhub4u.cs3",
         "status": 1,
-        "version": 54,
+        "version": 57,
         "name": "HDhub4u",
         "internalName": "HDhub4u",
         "authors": [
             "Phisher98"
         ],
-        "fileSize": 111085,
+        "fileSize": 122852,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -139,7 +113,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ff59a37822c30f30119c205716eb08c24220b884b3c65cae87e37168cd8b6327"
+        "fileHash": "sha256-ae9668b4de9849d1f60558f867ecc3a48dbe5a964b4f651b6e886bd42578a8eb"
     },
     {
         "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MovieBlast.cs3",
@@ -163,37 +137,37 @@
         "fileHash": "sha256-67f5f346b488726afee888d264548ebccd7d85ac033612b963e6ac9b4fb3742e"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MovieBoxProvider.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBoxProvider.cs3",
         "status": 1,
-        "version": 26,
+        "version": 36,
         "name": "MovieBoxProvider",
         "internalName": "MovieBoxProvider",
         "authors": [
             "NivinCNC,Phisher98"
         ],
         "description": "Multi Language Movies and Series Provider",
-        "fileSize": 72427,
+        "fileSize": 165837,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/MovieBoxProvider/icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/moviebox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-43e4593be338e8c1ebe10ab9043e19cb2c9b79e64dea2c40b5e38d6f84a344e9"
+        "fileHash": "sha256-0e7db88a4b668c6c22160025cb331aab3627fd42c166f723eedfa0de20b7a498"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Movies4u.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
         "status": 1,
-        "version": 8,
+        "version": 17,
         "name": "Movies4u",
         "internalName": "Movies4u",
         "authors": [
             "Phisher98"
         ],
         "description": "Movies4u",
-        "fileSize": 73603,
+        "fileSize": 123199,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -202,22 +176,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c0a5008dc84fad2bf5126ec275cbea4115536fd2b29daf4b80cfd5c2ea3a0441",
-        "jarFileSize": 365676,
-        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Movies4u.jar",
-        "jarHash": "sha256-ce8ac69cd5a2ea230ec5868004ecb145cd41a2094aa404b20ea33971fe68aa55"
+        "fileHash": "sha256-75520af8b9b4a358ab82918012591b2d91011f5016e7c8e4dee42c94abe0a286"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/Moviesmod.cs3",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Moviesmod.cs3",
         "status": 1,
-        "version": 32,
+        "version": 33,
         "name": "Moviesmod",
         "internalName": "Moviesmod",
         "authors": [
             "megix"
         ],
         "description": "Includes Topmovies",
-        "fileSize": 44386,
+        "fileSize": 44518,
         "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
         "tvTypes": [
             "TvSeries",
@@ -227,19 +198,19 @@
         ],
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-77020d682ea18f42f026f933c810fe3a7279da0ba57489dc8553241f03f93998"
+        "fileHash": "sha256-9433fd970480a53f52f3ec4b49d3213c7bda5a26b109dc80ef82cd2ec13a37a7"
     },
     {
-        "url": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MultiMoviesProvider.cs3",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
         "status": 1,
-        "version": 50,
+        "version": 55,
         "name": "MultiMoviesProvider",
         "internalName": "MultiMoviesProvider",
         "authors": [
             "Phisher98"
         ],
         "description": "Indian Multi-language HD Provider",
-        "fileSize": 45915,
+        "fileSize": 151434,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "hi",
         "tvTypes": [
@@ -249,25 +220,20 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/MultiMoviesProvider/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-46a30a2ef000dd3632765c33d9b8726ae09b95770bc743228e0549e2506e3244",
-        "jarFileSize": 198279,
-        "jarUrl": "https://raw.githubusercontent.com/haIo117/CS-Plugins/builds/MultiMoviesProvider.jar",
-        "jarHash": "sha256-4572958ac6883b1bf66b2e166892520722299e54ec3a79bdc5a33ce63ca80df4"
+        "fileHash": "sha256-ce2eda6e5c023df55eed57488aafded9533808642a7cb891b8c4c9ce2a328e24"
     },
     {
-        "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/StreamingCommunity.cs3",
+        "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/StreamingCommunity.cs3",
         "status": 1,
-        "version": 52,
+        "version": 34,
         "name": "StreamingCommunity",
         "internalName": "StreamingCommunity",
         "authors": [
-            "doGior",
-            "Nanduuu03",
-            "DieGon"
+            "doGior"
         ],
-        "description": "Film e SerieTV da StreamingCommunity",
-        "fileSize": 64036,
-        "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+        "description": "TV Shows and Movies from StreamingCommunity",
+        "fileSize": 61029,
+        "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
         "language": "it",
         "tvTypes": [
             "TvSeries",
@@ -275,8 +241,74 @@
             "Documentary",
             "Cartoon"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/StreamingCommunity/streamingunity_icon.png",
+        "iconUrl": "https://streamingunity.dog/apple-touch-icon.png?v=2",
         "apiVersion": 1,
-        "fileHash": "sha256-0639b987646eba4d26fe0c5a494b39327801909e34d5bfaa167e3d8649e18caa"
+        "fileHash": "sha256-e321d6ac77390ceeeda807428effcf225e9362365efb47b8f8e40713cf3cff9f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
+        "status": 1,
+        "version": 62,
+        "name": "IndStream",
+        "internalName": "IndStream",
+        "authors": [
+            "Indflix"
+        ],
+        "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
+        "fileSize": 201670,
+        "repositoryUrl": "https://github.com/dipender98/Indflix",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5f89ee9f618db2e6cb2992e1f708a9516a0e60c7f1a55cbdd34a02bd1560028c"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Multimovies.cs3",
+        "status": 1,
+        "version": 46,
+        "name": "Multimovies",
+        "internalName": "Multimovies",
+        "authors": [
+            "Indflix"
+        ],
+        "description": "CloudStream provider that scrapes Multimovies and pulls sources in parallel with a per-source timeout.",
+        "fileSize": 152636,
+        "repositoryUrl": "https://github.com/dipender98/Indflix",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AnimeMovie",
+            "Cartoon"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-55e53f78ca7bfd073a9f970e47aa7e9d3458f43e841e4aa9befc8292b600c643"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Vegamovies.cs3",
+        "status": 1,
+        "version": 9,
+        "name": "Vegamovies",
+        "internalName": "Vegamovies",
+        "authors": [
+            "Indflix"
+        ],
+        "description": "CloudStream provider that scrapes Vegamovies (Hollywood + Bollywood) with TMDB metadata and live-fill download servers.",
+        "fileSize": 57572,
+        "repositoryUrl": "https://github.com/dipender98/Indflix",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Vegamovies/icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-9c2088115fb532a54bca3bfc0cb63091667e1010193912a55f6b4aeac98d2aad"
     }
-]
+        ]
