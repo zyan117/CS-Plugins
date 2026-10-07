@@ -1,27 +1,5 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/TestPlugins-old/builds/MovieBox.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "MovieBox",
-        "internalName": "MovieBox",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "MovieBox Native - Pure API Provider with Crypto Bypass",
-        "fileSize": 93567,
-        "repositoryUrl": "https://github.com/Faisal0786/TestPlugins-old",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=movieboxpro.app",
-        "apiVersion": 1,
-        "fileHash": "sha256-37a0dead3485029324f33313b4d6c7c332bc9f2aa43e6c1d5eef376c74d298f8"
-    },
-    {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
         "version": 686,
